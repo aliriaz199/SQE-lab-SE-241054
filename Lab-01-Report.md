@@ -87,3 +87,16 @@ To:
 `return a * b;`
 
 **Final Result:** The multiplication test passes after fixing the defect.
+
+## Task 6: GitHub Repository
+
+**GitHub Repository Link:**  
+https://github.com/aliriaz199/SQE-lab-SE-241054
+
+### Screenshots
+
+1. Task 1 – JDK, Git and Maven Tool Verification
+2. Task 4 – JUnit Test Success (10 Tests Passed)
+3. Task 4 – JUnit Test Failure (Intentional Failure)
+
+All project files, source code, test cases, lab report and screenshots have been uploaded to the GitHub repository.
